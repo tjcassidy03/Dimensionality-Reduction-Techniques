@@ -9,3 +9,5 @@ module load apptainer/1.2.2 rapidsai/23.10
 apptainer run --nv $CONTAINERDIR/rapidsai-23.10.sif flim-tsne.py
 ```
 
+## UMAP
+
